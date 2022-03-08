@@ -13,17 +13,18 @@
 Meu nome é João Victor, sou estudante de software engineer, também estudante de 
 metallurgical engineering e apaixonado por tecnologia, desenvolvimento, inteligência artificial. 
 
-- <h4>:office_worker: Atualmente estou estudando na Driven, curso de Full-Stack. Além disso cursando Engenharia Metalúrgica na UFRJ</h4>
+- <h4>:office_worker: Atualmente estou estudando na Driven, curso de Full-Stack</h4>
 - <h4>:blue_heart: Techs Principais: Desenvolvimento HTML, CSS, JavaScript e Python</h4>
+- <h4>:books: 3º Período - Bacharelado em Engenharia Metalúrgica - UFRJ :heart:</h4>
 - <h4> 🌱 No momento estudando react js.</h4>
 
 ---
 
   
 <div align="center">
-  <a href="https://github.com/abnermatheus">
+  <a href="https://github.com/VictorFrancix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorFrancix&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFrancx&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFrancix&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 ## Tecnologias
