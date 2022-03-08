@@ -23,7 +23,7 @@ metallurgical engineering e apaixonado por tecnologia, desenvolvimento, intelig√
   
 <div align="center">
   <a href="https://github.com/VictorFrancix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorFrancix&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorFrancix&show_icons=true&theme=gotham&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFrancix&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
@@ -40,5 +40,7 @@ metallurgical engineering e apaixonado por tecnologia, desenvolvimento, intelig√
 <div/>
     
 ---
-  
-![Snake animation](https://github.com/VictorFrancix/VictorFrancix/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/abnermatheus/abnermatheus/blob/output/github-contribution-grid-snake.svg)
+
+    
+    
