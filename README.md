@@ -1,4 +1,4 @@
-💻 Natan Brito
+💻 João Victor Francisco
 
 <!-- SOCIAL -->
 <div>
@@ -41,5 +41,4 @@ metallurgical engineering e apaixonado por tecnologia, desenvolvimento, intelig�
     
 ---
   
-.
--->
+![Snake animation](https://github.com/VictorFrancix/VictorFrancix/blob/output/github-contribution-grid-snake.svg)
