@@ -16,7 +16,7 @@ metallurgical engineering e apaixonado por tecnologia, desenvolvimento, intelig�
 - <h4>:office_worker: Atualmente estou estudando na Driven, curso de Full-Stack</h4>
 - <h4>:blue_heart: Techs Principais: Desenvolvimento HTML, CSS, JavaScript e Python</h4>
 - <h4>:books: 3º Período - Bacharelado em Engenharia Metalúrgica - UFRJ :heart:</h4>
-- <h4> 🌱 No momento estudando react js.</h4>
+- <h4> 🐘 No momento estudando PostgreSQL.</h4>
 
 ---
 
