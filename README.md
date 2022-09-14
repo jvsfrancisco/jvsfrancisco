@@ -51,14 +51,12 @@ Meu nome é João Victor, mas pode me chamar de **JV**, sou apaixonado por tecno
 <div>
     <a href="mailto:jvictor.franci@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-E4400F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
     <a href="https://www.instagram.com/Victr_francixx/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jvsfrancisco/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+    <a href="https://www.linkedin.com/in/jvsfrancisco/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
   
 ---
-
-![Snake animation](https://github.com/jvsfrancisco/jvsfrancisco/blob/output/github-contribution-grid-snake.svg)
-
-
-
+<div align="center">
+ <img src="https://github.com/jvsfrancisco/jvsfrancisco/blob/output/github-contribution-grid-snake.svg" />
+</div>
     
     
