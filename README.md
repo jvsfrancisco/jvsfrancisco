@@ -2,7 +2,7 @@
 
 Meu nome é João Victor, mas pode me chamar de **JV**, sou apaixonado por tecnologia, desenvolvimento web e inteligência artificial. 
 
-- 🔥 Desenvolvedor Fullstack Junior
+- 🔥 Desenvolvedor Fullstack
 
 - 📚 Graduando de Ciência da Computação na [PUC-Rio](http://www.inf.puc-rio.br/)
 
