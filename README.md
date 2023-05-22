@@ -10,11 +10,11 @@
 
 - 💡Um dos meus hobbies é utilizar formas não convencionais para resolver quebra-cabeças e puzzles 
 
-- 🎵 **Músico ( ou quase um ) nas horas vagas**
+- 🎵 Músico **( ou quase um )** nas horas vagas
 
 - 🎨 Gosto de usar minha criatividade para criar meus projetos de Front-End
 
-- 💻 Veja meu projeto autoral [GitFlix](https://gitflix-navy.vercel.app)
+- 💻 Veja meu projeto autoral [GitFlix](https://gitflix.tk)
 
 - 💬 E aí, que tal conversarmos? Podemos falar sobre **HTML, CSS, Styled-Components, MUI, JavaScript, React.Js, Jest, Typescript e Python**
 
