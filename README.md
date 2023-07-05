@@ -14,7 +14,7 @@
 
 - 🎨 Gosto de usar minha criatividade para criar meus projetos de Front-End
 
-- 💻 Veja meu game [Torre de Hanoi](tower-of-hanoi-mu.vercel.app)
+- 💻 Veja meu game [Torre de Hanoi](https://tower-of-hanoi-mu.vercel.app)
 
 - 💬 E aí, que tal conversarmos? Podemos falar sobre **HTML, CSS, Styled-Components, MUI, JavaScript, React.Js, Jest, Typescript e Python**
 
