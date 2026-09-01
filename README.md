@@ -18,7 +18,6 @@
 
 Sou desenvolvedor Full Stack no Rio de Janeiro. Construo interfaces, integrações e sistemas para **e-commerces que não podem parar**, cuidando da jornada completa: da experiência do usuário às regras de negócio, dados e deploy.
 
-- 🛍️ Atualmente desenvolvendo tecnologia para e-commerce na **Serena Biquínis**
 - 🎓 Ciência da Computação na [PUC-Rio](https://www.puc-rio.br/)
 - 🤖 Explorando IA aplicada, automações e novas formas de criar produtos
 - 🎨 Apaixonado por unir engenharia, produto e uma interface bem pensada
