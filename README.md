@@ -11,7 +11,7 @@
   <a href="https://quazz.com.br">
     <img src="https://img.shields.io/badge/Quazz-0B0A12?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjIgMiAxMTYgMTE2Ij48cGF0aCBkPSJNNTIgOEwxMDAgNDBMNzAgMTEyTDIwIDg2WiIgZmlsbD0iIzdBNUNGRiIvPjxwYXRoIGQ9Ik01MiA4TDEwMCA0MEw1OCA1NFoiIGZpbGw9IiNBOUMyRkYiLz48cGF0aCBkPSJNNTIgOEwyMCA4Nkw1OCA1NFoiIGZpbGw9IiM1RjQ4Q0UiLz48L3N2Zz4=" alt="Quazz" />
   </a>
-  <a href="https://portifolio-omega-three-41.vercel.app">
+  <a href="https://joao.quazz.com.br">
     <img src="https://img.shields.io/badge/Portfólio-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
   <a href="https://www.linkedin.com/in/jvsfrancisco/">
@@ -106,7 +106,7 @@ A Prefeitura do Rio tem a lista de todas as feiras livres da cidade, mas ela est
 
 | Projeto | O que é | Stack |
 | :-- | :-- | :-- |
-| [**Portfólio**](https://portifolio-omega-three-41.vercel.app) · [código](https://github.com/jvsfrancisco/portifolio) | Meu portfólio com visual de colagem: papéis recortados, fitas e etiquetas | TanStack Start, React 19, CSS |
+| [**Portfólio**](https://joao.quazz.com.br) · [código](https://github.com/jvsfrancisco/portifolio) | Meu portfólio com visual de colagem: papéis recortados, fitas e etiquetas | TanStack Start, React 19, CSS |
 | [**Connect.AI**](https://conectai.vercel.app/) · [código](https://github.com/jvsfrancisco/conect.ai) | Plataforma que usa IA para aproximar candidatos e oportunidades | Next.js, TypeScript, OpenAI |
 
 ## Stack
