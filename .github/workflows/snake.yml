@@ -1,6 +1,6 @@
-name: Snake Game
+name: Contribuições em jogo
 
-# Gera a animação da cobrinha comendo o gráfico de contribuições
+# Gera o Pac-Man e a cobrinha comendo o gráfico de contribuições
 # e publica os SVGs na branch `output`, que o README do perfil usa.
 on:
   schedule:
@@ -14,15 +14,21 @@ permissions:
   contents: write
 
 concurrency:
-  group: snake
+  group: contribuicoes
   cancel-in-progress: true
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
-      - name: Gerar os SVGs da cobrinha
+      - name: Gerar o Pac-Man
+        uses: abozanona/pacman-contribution-graph@v5.0.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+
+      - name: Gerar a cobrinha
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
